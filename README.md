@@ -31,10 +31,12 @@ pic
 
 
  
-* ## You receive binary pic of Erdos-Renyi Network
-  * Sub Item 1
-  * Sub Item 1
-  * Sub Item 1
+* ## Third step
+  * You receive binary pic of Erdos-Renyi Network
+
+pic
+
+
 
 * ## fourth step
   * Sub Item 1

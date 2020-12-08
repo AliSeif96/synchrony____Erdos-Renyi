@@ -27,14 +27,20 @@ fifth step  | Calculating the overall synchronization of the network | C++| leve
 * ## second step
   * You receive 3D visualization of Erdos-Renyi Network
 
-pic
+
+<p align="center">
+ <img src="https://github.com/aliseif321/synchrony____Erdos-Renyi/blob/main/step%202/Untitled.png?raw=true" >
+ </p>
 
 
  
 * ## Third step
   * You receive binary pic of Erdos-Renyi Network
 
-pic
+
+<p align="center">
+ <img src="https://github.com/aliseif321/synchrony____Erdos-Renyi/blob/main/step%203/Untitled1.png?raw=true" >
+ </p>
 
 
 
@@ -43,10 +49,16 @@ pic
     * spike_Phi_I.txt
     * train.png 
  
- pic
- 
+
+<p align="center">
+ <img src="https://github.com/aliseif321/synchrony____Erdos-Renyi/blob/main/step%204/train.png?raw=true" >
+ </p>
+
  
 * ## fifth step
   * The output of this program gives us level of synchrony
   
- pic
+
+<p align="center">
+ <img src="https://github.com/aliseif321/synchrony____Erdos-Renyi/blob/main/step%205/Untitled2.png?raw=true" >
+ </p>

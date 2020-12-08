@@ -5,14 +5,14 @@
 /*** Date: 12/5/2020                                                                          ***/
 /*** Code implemented in CodeBlocks C++ compiler (v. 17.12),                                  ***/
 /*** MSI: PX60 6QD/ DDR4                                                                      ***/
-/*** Run under a Intel® Core™ i7-6700HQ CPU @ 2.60GHz × 64 based processor with 16 GB RAM     ***/
+/*** Run under a IntelÂ® Coreâ„¢ i7-6700HQ CPU @ 2.60GHz Ã— 64 based processor with 16 GB RAM     ***/
 /************************************************************************************************/
 /*
 The following an article have been used to write this program.
-[1] Dynamic range in small-world networks of Hodgkin–Huxley neurons with chemical synapses
+[1] Dynamic range in small-world networks of Hodgkinâ€“Huxley neurons with chemical synapses
 C.A.S. Batista a , R.L. Viana a, S.R. Lopes a, A.M. Batista
 https://doi.org/10.1016/j.physa.2014.05.069
-0378-4371/© 2014 Published by Elsevier B.V.
+0378-4371/Â© 2014 Published by Elsevier B.V.
 */
 #include <iostream>                                             //for cout
 #include <math.h>                                               //for pow()

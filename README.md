@@ -1,4 +1,4 @@
-# Measuring quantify the level of synchrony in a large population of neurons within an Erdos-Renyi network.
+# Measuring quantify the level of synchrony in a large population of neurons with in an Erdos-Renyi network.
 
 In these programs, we created an Erdos-Renyi network for 100 neurons with a probability of connecting 0.3. then We performed these neurons with a Huxkin Huxley model with an external current of 2 µA/cm^2 for 2,500 milliseconds and stored the voltage for the last 500 milliseconds. Then, to better understand the production Erdos-Renyi network, we drew   how neurons connect to each other in the network in three dimensions and binary. And after calculating the spike train, we calculated the synchronization rate.
 

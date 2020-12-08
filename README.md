@@ -39,13 +39,14 @@ pic
 
 
 * ## fourth step
-  * Sub Item 1
-  * Sub Item 1
-  * Sub Item 1
+  * You receive tow outputs
+    * spike_Phi_I.txt
+    * train.png 
+ 
+ pic
+ 
  
 * ## fifth step
-  * Sub Item 1
-  * Sub Item 1
-  * Sub Item 1
+  * The output of this program gives us level of synchrony
   
-  
+ pic

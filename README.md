@@ -12,3 +12,38 @@ second step  |3D visualization of Erdos-Renyi Network | python| 3D Network.html
 Third step  | plotting how neurons connect to each other in the network in a binary way | python| Binary.html
 fourth step  | Calculating the spike train and draw the raster plot | MATLAB| train.png - spike_Phi_I.txt
 fifth step  | Calculating the overall synchronization of the network | C++| level of synchrony
+
+
+
+* ## first step
+
+  * You can change the number of neurons, Possibility of connection, Finaltime for run, External Current and length steps of Runge-Kutta 4th Order Method
+    * In these programs, we use ~100~ neurons with a probability of connecting ~0.3~ and external current of ~2 µA/cm^2~ for ~2,500~ milliseconds wih length steps ~0.01~
+  * You receive three outputs
+    * temp.txt
+    * datas.txt
+    * bineryprint.txt
+
+* ## second step
+  * You receive 3D visualization of Erdos-Renyi Network
+
+pic
+
+
+ 
+* ## You receive binary pic of Erdos-Renyi Network
+  * Sub Item 1
+  * Sub Item 1
+  * Sub Item 1
+
+* ## fourth step
+  * Sub Item 1
+  * Sub Item 1
+  * Sub Item 1
+ 
+* ## fifth step
+  * Sub Item 1
+  * Sub Item 1
+  * Sub Item 1
+  
+  

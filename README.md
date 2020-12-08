@@ -62,3 +62,14 @@ fifth step  | Calculating the overall synchronization of the network | C++| leve
 <p align="center">
  <img src="https://github.com/aliseif321/synchrony____Erdos-Renyi/blob/main/step%205/Untitled2.png?raw=true" >
  </p>
+
+
+## References
+
+[1] Emergence of global synchronization in directed excitatory networks of type I neurons (Abolfazl Ziaeemehr1, Mina Zarei & Aida Sheshbolouki
+
+    DOI: 10.1038/s41598-020-60205-0
+    
+[2] Dynamic range in small-world networks of Hodgkin–Huxley neurons with chemical synapses C.A.S. Batista a, R.L. Viana a, S.R. Lopes a, A.M. Batista
+
+    DOI: 10.1016/j.physa.2014.05.069
